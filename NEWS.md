@@ -1,5 +1,56 @@
 [Rendered view](https://github.com/dracutdevs/dracut/blob/master/NEWS.md)
 
+dracut-060
+==========
+
+#### Features
+
+* **systemd:**  install systemd-executor ([bee1c482](https://github.com/dracutdevs/dracut/commit/bee1c4824a8cd47ce6c01892a548bdc07b1fa678))
+
+#### Bug Fixes
+
+* **install.d:**  do not create initramfs if the supplied image is UKI ([b2af8c8b](https://github.com/dracutdevs/dracut/commit/b2af8c8bcfc72802e02e2c0adc2eed9279101624))
+
+#### Contributors
+
+- Antonio Alvarez Feijoo <antonio.feijoo@suse.com>
+- Henrik Gombos <henrik99999@gmail.com>
+- Laszlo Gombos <laszlo.gombos@gmail.com>
+- Benjamin Drung <benjamin.drung@canonical.com>
+- Beniamino Galvani <bgalvani@redhat.com>
+- Martin Wilck <mwilck@suse.de>
+- наб <nabijaczleweli@nabijaczleweli.xyz>
+- Adrien Thierry <athierry@redhat.com>
+- Frederick Grose <fgrose@sugarlabs.org>
+- Andrew Ammerlaan <andrewammerlaan@gentoo.org>
+- Pavel Valena <pvalena@redhat.com>
+- dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- Frantisek Sumsal <frantisek@sumsal.cz>
+- Jóhann B. Guðmundsson <johannbg@gmail.com>
+- Tao Liu <ltao@redhat.com>
+- “Masahiro <mmatsuya@redhat.com>
+- 0x5c <dev@0x5c.io>
+- Andrew Halaney <ahalaney@redhat.com>
+- Daniel McIlvaney <damcilva@microsoft.com>
+- David Disseldorp <ddiss@suse.de>
+- Dmitry Klochkov <dmitry.klochkov@bell-sw.com>
+- Emanuele Giuseppe Esposito <eesposit@redhat.com>
+- John Meneghini <jmeneghi@redhat.com>
+- Khem Raj <raj.khem@gmail.com>
+- LinkTed <link.ted@mailbox.org>
+- Lubomir Rintel <lkundrak@v3.sk>
+- Michal Koutný <mkoutny@suse.com>
+- Michał Zegan <webczat@outlook.com>
+- Mike Gilbert <floppym@gentoo.org>
+- Sam James <sam@gentoo.org>
+- Sergio E. Nemirowski <sergio@outerface.net>
+- Thomas Blume <thomas.blume@suse.com>
+- Tianhao Chai <cth451@gmail.com>
+- Valentin Lefebvre <valentin.lefebvre@suse.com>
+- Vitaly Kuznetsov <vkuznets@redhat.com>
+- keentux <valentin.lefebvre@suse.com>
+- lilinjie <lilinjie@uniontech.com>
+
 dracut-059
 ==========
 
